@@ -70,7 +70,7 @@
     "gulp": "^4.0.2",
     "gulp-htmlmin": "^5.0.1",
     "gulp-if": "^3.0.0",
-    "gulp-imagemin": "7.1.0",
+    "gulp-imagemin": "9.2.0",
     "gulp-jsonmin": "^1.2.0",
     "gulp-merge-json": "^2.1.2",
     "gulp-postcss": "^9.0.1",
